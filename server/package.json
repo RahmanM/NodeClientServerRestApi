@@ -1,0 +1,27 @@
+{
+  "name": "nodeclientserver",
+  "version": "1.0.0",
+  "description": "Node Client And Server sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "client",
+    "node",
+    "server"
+  ],
+  "author": "Rahman Mahmoodi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "g": "^2.0.1",
+    "lodash": "^4.17.5",
+    "typescript": "^2.8.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.11.1"
+  }
+}
